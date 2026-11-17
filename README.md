@@ -1,17 +1,15 @@
-# Violet Nwe
+# hi, i'm violet
 
-Full stack developer in Sydney. I build 3D for the web and local-first apps, and I test what I ship.
+3d for the web, and full stack. sydney.
 
-**Site:** [violetnwe.com](https://www.violetnwe.com) · **LinkedIn:** [violet-nwe](https://www.linkedin.com/in/violet-nwe)
+[violetnwe.com](https://www.violetnwe.com) · [linkedin](https://www.linkedin.com/in/violet-nwe)
 
-## Projects
+### things i've built
 
-| Project | What it is |
-|---|---|
-| [Aplyd Community](https://github.com/VioletN22/aplyd-community) | Open source desktop app for tracking job applications. Electron, React, TypeScript and SQLite, with builds for macOS, Windows and Linux. Starts empty and keeps your data on your computer. |
-| [Bench blast viewer](https://github.com/VioletN22/blast-viewer) | Interactive 3D viewer of blast movement on an open-pit bench, built with React Three Fiber. [Live demo](https://violetn22.github.io/blast-viewer/) |
-| [ETL drift QA study](https://github.com/VioletN22/rhombus-etl-drift-qa) | What happens to a data pipeline when its input changes shape or meaning: test cases, a validator and a findings log. [Dashboard](https://violetn22.github.io/rhombus-etl-drift-qa/) |
+- **[aplyd community](https://github.com/VioletN22/aplyd-community)**: the job tracker i built for my own search, now open source. electron, react, typescript, sqlite. runs on mac, windows and linux, and your data stays on your computer.
+- **[bench blast viewer](https://github.com/VioletN22/blast-viewer)**: a mine blast you can play through in the browser, on the real super pit terrain. react three fiber. [live demo](https://violetn22.github.io/blast-viewer/)
+- **[etl drift qa](https://github.com/VioletN22/rhombus-etl-drift-qa)**: i changed a data pipeline's input in different ways and wrote down what it did each time. python, a validator, a findings log. [dashboard](https://violetn22.github.io/rhombus-etl-drift-qa/)
 
-## What I work with
+### mostly using
 
-TypeScript, React, Next.js, React Three Fiber, Electron, Expo, Supabase, SQLite, Python, Playwright, GitHub Actions
+typescript, react, next.js, react three fiber, electron, expo, supabase, python, playwright
